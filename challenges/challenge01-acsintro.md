@@ -48,7 +48,7 @@ In this lab, you will prepare your workstation VM for working with ACS and Kuber
 
 8. In your terminal git clone the repo for this Hackfest
     * ``git clone https://github.com/chzbrgr71/container-hackfest.git``
-    * cd into the ``/container-hackfest/challenges`` directory 
+    * cd into the ``~/container-hackfest/challenges`` directory 
 
 ## Advanced areas to explore
 
